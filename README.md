@@ -1,6 +1,8 @@
 # 🍅 Daily Log
 This is a personal tracking project to monitor daily work progress, completed goals, and time spent using the Pomodoro Technique.
 
+<br>
+
 ## 🎯 Next 18 Months (Until April 2027)
 ### Build foundational technical skills for overseas employment (DevOps route)
     [] Complete DevOps Career Roadmap
@@ -18,9 +20,13 @@ This is a personal tracking project to monitor daily work progress, completed go
     [] One or Two solo recitals
     [] Complete reading of Harmony and Form Analysis textbooks
 
-## Principles
+<br>
+
+## ♠️ Principles
 - Accumulate at least 40 Pomodoro sessions per week
 - Each session lasts 25 minutes
+
+<br>
 
 ---
 
@@ -33,6 +39,8 @@ This is a personal tracking project to monitor daily work progress, completed go
 | **Most Productive Month** | N/A |
 
 ---
+
+<br>
 
 ## 📚 Log Index
 All daily logs are stored in the [logs/logs xxx](./logs)。
